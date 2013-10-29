@@ -1,6 +1,6 @@
 package Net::IPAddress::Util::Range;
 
-use 5.018;
+use 5.016;
 use mop;
 
 use Exporter qw( import );

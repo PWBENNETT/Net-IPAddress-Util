@@ -1,6 +1,6 @@
 package Net::IPAddress::Util::Collection;
 
-use 5.018;
+use 5.016;
 
 require Net::IPAddress::Util;
 require Net::IPAddress::Util::Collection::Tie;
