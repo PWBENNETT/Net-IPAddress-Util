@@ -1,6 +1,6 @@
 package Net::IPAddress::Util;
 
-use 5.018;
+use 5.016;
 use mop;
 
 use Carp qw( carp cluck confess );
